@@ -21,10 +21,10 @@
 - `puts`
 - `putchar`
 
-# Learning Objectives
+### Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-## General
+### General
 
 - Why C programming is awesome
 - Who invented C
@@ -41,8 +41,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How does the main function influence the return value of the program
 
 
-# Requirements
-# C
+### Requirements
+### C
 
 - Allowed editors: `vi`, `vim`, `emacs`
 - All your files will be compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
@@ -53,15 +53,15 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - You are not allowed to use system
 - Your code should use the `Betty` style. It will be checked using `betty-style.pl` and `betty-doc.pl`
 
-# Shell Scripts
+### Shell Scripts
 - Allowed editors: `vi`, `vim`, `emacs`
 - All your scripts will be tested on Ubuntu 20.04 LTS
 - All your scripts should be exactly two lines long (`$ wc -l file` should print 2)
 - All your files should end with a new line
 - The first line of all your files should be exactly `#!/bin/bash`
 
-# More Info
-## Betty linter
+### More Info
+### Betty linter
 
 To run the Betty linter just with command `betty <filename>`:
 
